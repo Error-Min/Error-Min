@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 Hi! Welcome to Error-Min Github profile!
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **Error-Min/Error-Min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
