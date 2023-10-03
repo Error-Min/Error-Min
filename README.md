@@ -1,7 +1,10 @@
 ### 👋 Hi! Welcome to Error-Min Github profile!
 
+ <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-Min&show_icons=true&theme=dark)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-Min&show_icons=true&theme=transparent)
 
 
 
