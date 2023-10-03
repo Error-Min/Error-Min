@@ -1,7 +1,7 @@
 ### 👋 Hi! Welcome to Error-Min Github profile!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smgm030@gmail.com&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Error-Min&show_icons=true&theme=dark)
 
 
 
