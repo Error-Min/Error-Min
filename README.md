@@ -1,4 +1,8 @@
-### 👋 Hi! Welcome to Error-Min Github profile! [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FError-Min&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23D13232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### 👋 Hi! Welcome to Error-Min Github profile! 
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FError-Min&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23D13232&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
 <br>
 
