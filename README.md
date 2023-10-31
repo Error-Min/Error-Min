@@ -19,8 +19,16 @@
 
 ## 💻 DEV/OPS history 💻
 - Bespin Global - DevOps3
-- LG Electronics - PCCD Project 
+- LG Electronics - PCCD Project
+     - big data Processing
+     - Python Airflow dag dev
 - LG Electronics - Data Echo Platform Project
+     - AWS Management & data Pre-processing
+- Kang & Lee - Dev/Ops Fullstack web-app build up
+     - big data
+     - Python Airflow
+     - Web dev & App dev
+     - django FAQ chat bot
 
 
 
